@@ -1,6 +1,0 @@
-COLOR_NORMAL = 'lightblue'
-COLOR_COMPARE = 'red'
-COLOR_SWAP = 'blue'
-COLOR_PIVOT = 'yellow'
-COLOR_DONE = 'green'
-COLOR_SUBARRAY = 'orange'  # SUBARRAY COLOR CHARASTERISTICS
